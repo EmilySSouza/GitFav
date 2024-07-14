@@ -25,5 +25,5 @@
 ## Link 
 Para testar o projeto só clicar -> <a href="https://emilyssouza.github.io/GitFav/" target="_blank">aqui</a> <- 
 <br> <br>
-<img src="https://i.ibb.co/9vQqzTf/crv-Y4b1d-TMalcm-CDALSaw-A.png" alt="crv-Y4b1d-TMalcm-CDALSaw-A" border="0">
-<img src="https://i.ibb.co/z6ygCQf/image.png" alt="image" border="0">
+<img src="https://i.ibb.co/gWwmhvB/image.png" alt="image" border="0">
+<img src="https://i.ibb.co/bsKNfSt/image.png" alt="image" border="0">
